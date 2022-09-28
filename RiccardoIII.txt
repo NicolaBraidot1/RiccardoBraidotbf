@@ -1,99 +1,41 @@
+Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
 
-Git. Facciamoci in tre
-Paolo Benoli
-•
-22 set
-100 punti
-Consegna: 12:00
-Create una nuova replit chiamandola RiccardoVostroCognome
-Create un file di nome RiccardoIII.txt
-Copiate nel file RiccardoIII.txt uno dei file allegati
-Create una nuova repo su GitHub.
-Create (partendo sempre da main) tre nuove branche ("uno","due","tre")
-in ogni branca copiate (cancellando quello che già c'è) in
-RiccardoIII.txt il contenuto di uno diverso dei file allegati (non
-quello che avete copiato in main)
-Fondete le tre branche in main.
-Ogni file ha una frase seguita da [giusta]. Queste quattro frasi dovranno apparire nella versione definitiva (cioè in main).
+CATESBY
 
-Risolvete
-i conflitti in modo che il risultato abbia un senso (cioè senza perdere
-frasi né avere frasi "doppie" (diverse ma che dicono le stesse cose))
-La consegna è il link alla vostra replit (che ovviamente condividete con paolo.benoli@isitgo.it e sara.scarazzolo@isitgo.it)
+Soccorso! Monsignore di Norfolk, soccorso, soccorso!
 
-riccardoCopioni.txt
-Testo
+Il re fa prodigi sovrumani,
 
-riccardoGoogle.txt
-Testo
+sfidando ad oltranza ogni avversario.
 
-riccardoSource.txt
-Testo
+Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 
-riccardoWilliam.txt
-Testo
-Commenti sul corso
-Il tuo lavoro
-Mancante
-Commenti privati
-Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+cercando Richmond nella gola della morte.
 
-Gli viene incontro di corsa CATESBY
+Soccorso, nobile signore, o la giornata è persa.
 
-CATESBY 
-	
+(Escono Norfolk e soldati).
 
-Correte, aiuto, signor di Norfolk!
+Allarmi. Entra re Riccardo.
 
-Il re compie prodigi sovrumani
+RE RICCARDO
 
-di valore, incurante d’ogni rischio.
+Un cavallo un cavallo! il mio regno per un cavallo!
 
-Gli hanno ucciso il cavallo,
+CATESBY
 
-e lui, a piedi, seguita a combattere;
+Ritiratevi, monsignore; v’aiuterò io a trovar un cavallo!
 
-e nell’ansia di battersi con Richmond
+RE RICCARDO
 
-si caccia nelle fauci della morte.
+Vigliacco! Ho puntato la mia vita su una giocata,
 
-Soccorretelo, nobile signore,
+e accetterò il rischio del dado.
 
-o la giornata per noi è perduta. [giusta]
+Credo che ci siano sei Richmond sul campo:
 
-(Escono Norfolk e soldati)
+cinque ne ho uccisi oggi, invece di lui.
 
-Entra RE RICCARDO
+Un cavallo! Un cavallo! Il mio regno per un cavallo!
 
-RICCARDO 
-	
-
-Un cavallo! Un cavallo!
-
-Il mio regno per un cavallo!
-
-CATESBY 
-	
-
-Sire,
-
-ritiratevi! Cerco io un cavallo
-
-per vostra altezza.
-
-RICCARDO 
-	
-
-Ho messo la mia vita come posta
-
-per un colpo di dadi, e starò al gioco.
-
-Credo ci siano sei Richmond sul campo;
-
-cinque ne ho fatti fuori, quello no!
-
-Un cavallo! Un cavallo!
-
-Il mio regno per un cavallo!
-
-(Escono tutti)
+[Escono].
